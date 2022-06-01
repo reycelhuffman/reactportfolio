@@ -7,13 +7,13 @@ export default function Home() {
       <p>
             Thank you for checking out my page! Here are my links to my pages! 
       </p>
-      <a href="https://github.com/reycelhuffman">GitHub Link</a>
+      <a href="https://github.com/reycelhuffman">Click for my GitHub Link</a>
       <br />
       <br />
-      <a href="https://dashboard.heroku.com/apps">Heroku Link</a>
+      <a href="https://dashboard.heroku.com/apps">Click for my Heroku Link</a>
       <br />
       <br />
-      <a href="https://www.linkedin.com/in/reycel-huffman/">linkedin Link</a>
+      <a href="https://www.linkedin.com/in/reycel-huffman/">Click for my Linkedin Link</a>
       <br />
       <br />
     

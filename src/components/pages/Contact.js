@@ -10,7 +10,6 @@ export default function Contact() {
       <p>Email: reycelhuffman@gmail.com</p>
       <p>Phone: 763-607-0633</p>
 
-     
     </div>
   );
 }
