@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.e7720ab7.css",
-    "main.js": "/reactportfolio/static/js/main.11ca4ef5.js",
+    "main.css": "/reactportfolio/static/css/main.9475bb9e.css",
+    "main.js": "/reactportfolio/static/js/main.e65867aa.js",
+    "static/media/portaitportfolio.JPG": "/reactportfolio/static/media/portaitportfolio.d90eea0f495afaeb6ef3.JPG",
+    "static/media/useforbackground.jpg": "/reactportfolio/static/media/useforbackground.b5dc93ec8b258e630820.jpg",
+    "static/media/laptop-home-office.webp": "/reactportfolio/static/media/laptop-home-office.50ace0ed43aabcadc113.webp",
+    "static/media/48-486428_about-contact-us-wallpaper-hd.jpg": "/reactportfolio/static/media/48-486428_about-contact-us-wallpaper-hd.2a12b1da670b1061b27e.jpg",
+    "static/media/resume.png": "/reactportfolio/static/media/resume.ee9ddea98b41da8429d2.png",
+    "static/media/Octocat.png": "/reactportfolio/static/media/Octocat.237e2214562c441f67b2.png",
+    "static/media/cutelinkedin.webp": "/reactportfolio/static/media/cutelinkedin.1a7ce891f8ec737396dc.webp",
+    "static/media/portfoliologo.png": "/reactportfolio/static/media/portfoliologo.be7d4681d2ff8ce43848.png",
     "index.html": "/reactportfolio/index.html",
-    "main.e7720ab7.css.map": "/reactportfolio/static/css/main.e7720ab7.css.map",
-    "main.11ca4ef5.js.map": "/reactportfolio/static/js/main.11ca4ef5.js.map"
+    "main.9475bb9e.css.map": "/reactportfolio/static/css/main.9475bb9e.css.map",
+    "main.e65867aa.js.map": "/reactportfolio/static/js/main.e65867aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7720ab7.css",
-    "static/js/main.11ca4ef5.js"
+    "static/css/main.9475bb9e.css",
+    "static/js/main.e65867aa.js"
   ]
 }
