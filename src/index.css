@@ -105,6 +105,12 @@ samp {
   font-size: 1em;
   /* 2 */
 }
+.backgroundimage {
+  background-image: url('./assets/img/useforbackground.jpg'); 
+  background-size:100% 150%;
+  /* width: 100%; */
+  background-repeat: no-repeat;
+}
 
 /**
  * Add the correct font size in all browsers.

@@ -10,9 +10,9 @@ export default function Work() {
         <Image
           src={require("./../../assets/img/laptop-home-office.webp")}
           alt="Github"
-          width={450}
+          width={250}
           href="https://docs.google.com/document/d/1liyCcq_EasESWtMTfsrcsYcqI-m5U1Nc/edit?usp=sharing&ouid=110244157607918638497&rtpof=true&sd=true"
-          height={350}
+          height={250}
         />
       </a>
       <p>

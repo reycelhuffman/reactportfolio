@@ -9,9 +9,9 @@ export default function About() {
         <Image
           src={require("./../../assets/img/portaitportfolio.JPG")}
           alt="Github"
-          width={300}
+          width={200}
           href="https://docs.google.com/document/d/1liyCcq_EasESWtMTfsrcsYcqI-m5U1Nc/edit?usp=sharing&ouid=110244157607918638497&rtpof=true&sd=true"
-          height={400}
+          height={200}
         />
       </a>
       <br />
