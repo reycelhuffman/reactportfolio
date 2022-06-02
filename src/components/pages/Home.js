@@ -16,7 +16,7 @@ export default function Home() {
       <h1>Home Page</h1>
       <br />
       <p>
-            Thank you for checking out my page! Here are my links to my pages! 
+            Thank you for checking out my page! Click images for my pages! 
       </p>
       <a href="https://github.com/reycelhuffman">
         <Image
